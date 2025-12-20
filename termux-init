@@ -1,0 +1,111 @@
+#!/data/data/com.termux/files/usr/bin/bash
+# Termux Bootstrap Script
+
+# -------------------------------
+# Configuration Variables
+# -------------------------------
+
+# Packages to install
+PACKAGES=(
+    git
+    neovim
+    curl
+    wget
+    fzf
+    python
+    eza
+    lazygit
+    tar
+    unzip
+    gh
+)
+
+# Dotfiles location
+DOTFILES="$HOME/storage/shared/git/droidots"
+
+# Git config defaults
+GIT_NAME="HimadriChakra12"
+GIT_EMAIL="himadrichakrabortydip@gmail.com"
+
+# -------------------------------
+# Functions
+# -------------------------------
+
+install_packages() {
+    echo "[*] Updating package list..."
+    pkg update -y
+    echo "[*] Installing packages..."
+    for pkg_name in "${PACKAGES[@]}"; do
+        echo "Installing $pkg_name..."
+        pkg install -y "$pkg_name"
+    done
+}
+
+setup_git() {
+    echo "[*] Configuring Git..."
+    gh auth login
+    gh auth setup-git
+    git config --global user.name "$GIT_NAME"
+    git config --global user.email "$GIT_EMAIL"
+    # Check for SSH key, generate if missing
+    if [[ ! -f "$HOME/.ssh/id_rsa" ]]; then
+        echo "[*] Generating SSH key..."
+        ssh-keygen -t rsa -b 4096 -f "$HOME/.ssh/id_rsa" -N ""
+    fi
+    echo "[*] Git setup complete."
+}
+
+setup_nvim() {
+    echo "[*] Setting up Neovim..."
+    git clone https://github.com/himadrichakra12/himastart.nvim ~/.config/nvim
+    echo "[*] Neovim configured."
+}
+
+setup_shell_aliases() {
+    echo "[*] Adding aliases and functions to .bashrc..."
+    cat << 'EOF' >> ~/.bashrc
+
+# Custom aliases
+alias dot="cd $HOME/storage/shared/git/droidots"
+alias ls="eza"
+alias l="ls"
+alias v="nvim"
+alias ep="nvim ~/.bashrc"
+alias sour="source ~/.bashrc"
+alias c="clear"
+alias q="exit"
+alias gg="lazygit"
+
+# FZF navigation function
+zo() {
+    while true; do
+        local items=("..")
+        while IFS= read -r line; do
+            items+=("$line")
+        done < <(ls -1A)
+        local selected
+        selected=$(printf '%s\n' "${items[@]}" | fzf --layout=reverse --header "$(pwd)" --height 90% --preview "eza --color=always {} -T")
+        [[ -z "$selected" ]] && break
+        if [[ -d "$selected" ]]; then
+            cd "$selected" || break
+        else
+            xdg-open "$selected" &>/dev/null &
+        fi
+    done
+}
+
+EOF
+    echo "[*] Aliases and functions added."
+}
+
+# -------------------------------
+# Bootstrap Execution
+# -------------------------------
+
+echo "[*] Starting Termux bootstrap..."
+install_packages
+setup_git
+setup_nvim
+setup_shell_aliases
+echo "[*] Bootstrap complete! Please restart Termux or run 'source ~/.bashrc'."
+source ~/.bashrc
