@@ -6,12 +6,12 @@
             "author": "F-Droid official",
             "name": "Obtainium",
             "installedVersion": "1.3.4",
-            "latestVersion": "1.3.4",
-            "apkUrls": "[[\"dev.imranr.obtainium.fdroid_23313.apk\",\"https://f-droid.org/repo/dev.imranr.obtainium.fdroid_23313.apk\"]]",
+            "latestVersion": "1.5.2",
+            "apkUrls": "[[\"dev.imranr.obtainium.fdroid_23383.apk\",\"https://f-droid.org/repo/dev.imranr.obtainium.fdroid_23383.apk\"]]",
             "otherAssetUrls": "[]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"filterVersionsByRegEx\":\"\",\"trySelectingSuggestedVersionCode\":true,\"autoSelectHighestVersionCode\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
-            "lastUpdateCheck": 1782798126074003,
+            "lastUpdateCheck": 1783007016877022,
             "pinned": false,
             "categories": [],
             "releaseDate": null,
@@ -30,7 +30,7 @@
             "otherAssetUrls": "[]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"filterVersionsByRegEx\":\"\",\"trySelectingSuggestedVersionCode\":true,\"autoSelectHighestVersionCode\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
-            "lastUpdateCheck": 1782798126071482,
+            "lastUpdateCheck": 1783007016875639,
             "pinned": false,
             "categories": [
                 "Fdroid"
@@ -51,7 +51,7 @@
             "otherAssetUrls": "[[\"flud.tar.gz\",\"https://api.github.com/repos/HimadriChakra12/.droidots/tarball/flud\"],[\"flud.zip\",\"https://api.github.com/repos/HimadriChakra12/.droidots/zipball/flud\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"Flud\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"Flud\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\",\"github-creds\":\"\",\"GHReqPrefix\":\"\"}",
-            "lastUpdateCheck": 1782798125842300,
+            "lastUpdateCheck": 1783007017237526,
             "pinned": false,
             "categories": [
                 ".droidots"
@@ -72,7 +72,7 @@
             "otherAssetUrls": "[]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"trackOnly\":true,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
-            "lastUpdateCheck": 1782798126527715,
+            "lastUpdateCheck": 1783007017949925,
             "pinned": false,
             "categories": [
                 "Track"
@@ -88,16 +88,16 @@
             "author": "GitHub",
             "name": "GitHub",
             "installedVersion": null,
-            "latestVersion": "1.264.1",
-            "apkUrls": "[[\"com.github.android-933-armeabi-v7a.xapk\",\"https://data.winudf.com/XAPK/Y29tLmdpdGh1Yi5hbmRyb2lkXzkzM183ZTljZTY4Nw?filename=GitHub.xapk&is_hot=false&k=84aed1003e855b4b9bbfc86e097f6de56a45fa2d&package_name=com.github.android&token=1782798125-13c4c14a06-0-95decbea625373aa7ec0cc4dbc80d403\"]]",
+            "latestVersion": "1.265.1",
+            "apkUrls": "[[\"com.github.android-935-arm64-v8a.xapk\",\"https://data.winudf.com/XAPK/Y29tLmdpdGh1Yi5hbmRyb2lkXzkzNV9lNmZlNzAwYw?filename=GitHub.xapk&is_hot=false&k=05734ad7421de0558da282aec4aa55406a492a29&package_name=com.github.android&token=1783007017-10f3c7aafc-0-91a6495e50261ce4359039da26c7f46d\"]]",
             "otherAssetUrls": "[]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"fallbackToOlderReleases\":true,\"stayOneVersionBehind\":false,\"useFirstApkOfVersion\":true,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
-            "lastUpdateCheck": 1782798125601076,
+            "lastUpdateCheck": 1783007016947569,
             "pinned": false,
             "categories": [],
-            "releaseDate": 1782444932000000,
-            "changeLog": "<br>- Improved repository suggestions in the agent session repository picker to make it easier to find the most relevant repository faster.<br>- Fixed a crash that was occurring when navigating to commits lists using deep links",
+            "releaseDate": 1782820906000000,
+            "changeLog": "- Destructive menu actions (Delete, Block, Close Pull Request) display with sufficient contrast in dark mode.<br>- The &quot;Report&quot; menu option displays with sufficient contrast in light mode.",
             "overrideSource": null,
             "allowIdChange": false
         },
@@ -112,7 +112,7 @@
             "otherAssetUrls": "[[\"mpvRex-armeabi-v7a-v4.2.1.apk\",\"https://api.github.com/repos/sfsakhawat999/mpvRex/releases/assets/460519473\"],[\"mpvRex-universal-v4.2.1.apk\",\"https://api.github.com/repos/sfsakhawat999/mpvRex/releases/assets/460519476\"],[\"mpvRex-x86-v4.2.1.apk\",\"https://api.github.com/repos/sfsakhawat999/mpvRex/releases/assets/460519475\"],[\"mpvRex-x86_64-v4.2.1.apk\",\"https://api.github.com/repos/sfsakhawat999/mpvRex/releases/assets/460519477\"],[\"v4.2.1.tar.gz\",\"https://api.github.com/repos/sfsakhawat999/mpvRex/tarball/v4.2.1\"],[\"v4.2.1.zip\",\"https://api.github.com/repos/sfsakhawat999/mpvRex/zipball/v4.2.1\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\"}",
-            "lastUpdateCheck": 1782798126552684,
+            "lastUpdateCheck": 1783007018917928,
             "pinned": false,
             "categories": [
                 "Github"
@@ -133,12 +133,12 @@
             "otherAssetUrls": "[]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"trackOnly\":true,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"GRecorder\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
-            "lastUpdateCheck": 1782798126657103,
+            "lastUpdateCheck": 1783007018915610,
             "pinned": false,
             "categories": [
                 "Alt of Base"
             ],
-            "releaseDate": 1782790174000000,
+            "releaseDate": 1782858663000000,
             "changeLog": null,
             "overrideSource": null,
             "allowIdChange": false
@@ -154,7 +154,7 @@
             "otherAssetUrls": "[[\"v13.6.0.tar.gz\",\"https://api.github.com/repos/MetrolistGroup/Metrolist/tarball/v13.6.0\"],[\"v13.6.0.zip\",\"https://api.github.com/repos/MetrolistGroup/Metrolist/zipball/v13.6.0\"]]",
             "preferredApkIndex": 1,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\"}",
-            "lastUpdateCheck": 1782798127831859,
+            "lastUpdateCheck": 1783007022511636,
             "pinned": false,
             "categories": [],
             "releaseDate": 1782053545000000,
@@ -173,7 +173,7 @@
             "otherAssetUrls": "[[\"morphe-manager-1.22.0.apk.asc\",\"https://github.com/MorpheApp/morphe-manager/releases/download/v1.22.0/morphe-manager-1.22.0.apk.asc\"],[\"v1.22.0.tar.gz\",\"https://api.github.com/repos/MorpheApp/morphe-manager/tarball/v1.22.0\"],[\"v1.22.0.zip\",\"https://api.github.com/repos/MorpheApp/morphe-manager/zipball/v1.22.0\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\"}",
-            "lastUpdateCheck": 1782798128811622,
+            "lastUpdateCheck": 1783007021098900,
             "pinned": false,
             "categories": [
                 "Mod"
@@ -194,7 +194,7 @@
             "otherAssetUrls": "[[\"Poweramp.-.vbuild-988-uni.apk\",\"https://api.github.com/repos/HimadriChakra12/.droidots/releases/assets/301110096\"],[\"prwmp.tar.gz\",\"https://api.github.com/repos/HimadriChakra12/.droidots/tarball/prwmp\"],[\"prwmp.zip\",\"https://api.github.com/repos/HimadriChakra12/.droidots/zipball/prwmp\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"Poweramp\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"Poweramp\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\"}",
-            "lastUpdateCheck": 1782798126078013,
+            "lastUpdateCheck": 1783007018075356,
             "pinned": false,
             "categories": [
                 ".droidots"
@@ -215,7 +215,7 @@
             "otherAssetUrls": "[[\"xodo.tar.gz\",\"https://api.github.com/repos/HimadriChakra12/.droidots/tarball/xodo\"],[\"xodo.zip\",\"https://api.github.com/repos/HimadriChakra12/.droidots/zipball/xodo\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"Xodo\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"Xodo\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\"}",
-            "lastUpdateCheck": 1782798125879434,
+            "lastUpdateCheck": 1783007017046190,
             "pinned": false,
             "categories": [
                 ".droidots"
@@ -226,17 +226,38 @@
             "allowIdChange": false
         },
         {
+            "id": "org.mozilla.fennec_fdroid",
+            "url": "https://f-droid.org/en/packages/org.mozilla.fennec_fdroid",
+            "author": "F-Droid official",
+            "name": "Fennec",
+            "installedVersion": "152.0.0",
+            "latestVersion": "152.0.0",
+            "apkUrls": "[[\"org.mozilla.fennec_fdroid_1520020.apk\",\"https://f-droid.org/repo/org.mozilla.fennec_fdroid_1520020.apk\"]]",
+            "otherAssetUrls": "[]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"filterVersionsByRegEx\":\"\",\"trySelectingSuggestedVersionCode\":true,\"autoSelectHighestVersionCode\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
+            "lastUpdateCheck": 1783007016880185,
+            "pinned": false,
+            "categories": [
+                "Fdroid"
+            ],
+            "releaseDate": null,
+            "changeLog": null,
+            "overrideSource": "FDroid",
+            "allowIdChange": false
+        },
+        {
             "id": "io.linga",
             "url": "https://apkpure.com/linga-books-with-translations/io.linga",
             "author": "PragmaTech Limited",
             "name": "Linga",
             "installedVersion": null,
             "latestVersion": "3.5.2",
-            "apkUrls": "[[\"io.linga-275-armeabi-v7a.xapk\",\"https://data.winudf.com/XAPK/aW8ubGluZ2FfMjc1X2NlYWIxMGE0?filename=Linga%3A+Read+%26+Learn+Languages.xapk&is_hot=false&k=1a272ec22a3933bd0e3d47761b2409a06a45fa2d&package_name=io.linga&token=1782798125-611bb2bb40-0-779ede11c7494229b989efc454bc3f38\"]]",
+            "apkUrls": "[[\"io.linga-275-armeabi-v7a.xapk\",\"https://data.winudf.com/XAPK/aW8ubGluZ2FfMjc1X2NlYWIxMGE0?filename=Linga%3A+Read+%26+Learn+Languages.xapk&is_hot=false&k=b5e37ea0ee906293c05b8a588122979b6a492a29&package_name=io.linga&token=1783007017-45ba9fcf80-0-18ac594e5a00ed90185fcb89d56deda2\"]]",
             "otherAssetUrls": "[]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"fallbackToOlderReleases\":true,\"stayOneVersionBehind\":false,\"useFirstApkOfVersion\":true,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
-            "lastUpdateCheck": 1782798125679840,
+            "lastUpdateCheck": 1783007017599776,
             "pinned": false,
             "categories": [
                 "manager "
@@ -257,7 +278,7 @@
             "otherAssetUrls": "[[\"MSL.tar.gz\",\"https://api.github.com/repos/HimadriChakra12/.droidots/tarball/MSL\"],[\"MSL.zip\",\"https://api.github.com/repos/HimadriChakra12/.droidots/zipball/MSL\"]]",
             "preferredApkIndex": 1,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"Microslop\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"Lens\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\"}",
-            "lastUpdateCheck": 1782798126157064,
+            "lastUpdateCheck": 1783007017938241,
             "pinned": false,
             "categories": [
                 ".droidots"
@@ -278,7 +299,7 @@
             "otherAssetUrls": "[[\"Ytm.tar.gz\",\"https://api.github.com/repos/HimadriChakra12/.droidots/tarball/Ytm\"],[\"Ytm.zip\",\"https://api.github.com/repos/HimadriChakra12/.droidots/zipball/Ytm\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"YTM\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"YT Music\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\"}",
-            "lastUpdateCheck": 1782798126017663,
+            "lastUpdateCheck": 1783007017288917,
             "pinned": false,
             "categories": [
                 ".droidots"
@@ -299,7 +320,7 @@
             "otherAssetUrls": "[[\"Morphe.tar.gz\",\"https://api.github.com/repos/HimadriChakra12/.droidots/tarball/Morphe\"],[\"Morphe.zip\",\"https://api.github.com/repos/HimadriChakra12/.droidots/zipball/Morphe\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"Gboard\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\"}",
-            "lastUpdateCheck": 1782798126046395,
+            "lastUpdateCheck": 1783007017109750,
             "pinned": false,
             "categories": [
                 ".droidots"
@@ -320,7 +341,7 @@
             "otherAssetUrls": "[[\"v435-0-0-37-76.tar.gz\",\"https://api.github.com/repos/jean-voila/FeurStagram/tarball/v435-0-0-37-76\"],[\"v435-0-0-37-76.zip\",\"https://api.github.com/repos/jean-voila/FeurStagram/zipball/v435-0-0-37-76\"]]",
             "preferredApkIndex": 1,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":true,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\",\"github-creds\":\"\",\"GHReqPrefix\":\"\"}",
-            "lastUpdateCheck": 1782798126823564,
+            "lastUpdateCheck": 1783007019131856,
             "pinned": false,
             "categories": [],
             "releaseDate": 1782441403000000,
@@ -339,7 +360,7 @@
             "otherAssetUrls": "[]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"filterVersionsByRegEx\":\"\",\"trySelectingSuggestedVersionCode\":true,\"autoSelectHighestVersionCode\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"Navi\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
-            "lastUpdateCheck": 1782798131096606,
+            "lastUpdateCheck": 1783007022803379,
             "pinned": false,
             "categories": [
                 "Fdroid"
@@ -360,7 +381,7 @@
             "otherAssetUrls": "[[\"Camscanner.tar.gz\",\"https://api.github.com/repos/HimadriChakra12/.droidots/tarball/Camscanner\"],[\"Camscanner.zip\",\"https://api.github.com/repos/HimadriChakra12/.droidots/zipball/Camscanner\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"Camscanner\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\",\"github-creds\":\"\",\"GHReqPrefix\":\"\"}",
-            "lastUpdateCheck": 1782812225196094,
+            "lastUpdateCheck": 1783007017196175,
             "pinned": false,
             "categories": [
                 ".droidots"
@@ -368,6 +389,27 @@
             "releaseDate": 1782812077000000,
             "changeLog": null,
             "overrideSource": "GitHub",
+            "allowIdChange": false
+        },
+        {
+            "id": "org.ironfoxoss.ironfox",
+            "url": "https://releases.ironfoxoss.org/ironfox/releases/151.0.2.1/universal/ironfox-151.0.2.1-universal.apk",
+            "author": "releases.ironfoxoss.org",
+            "name": "IronFox",
+            "installedVersion": "315377339",
+            "latestVersion": "536938566",
+            "apkUrls": "[[\"146815838-ironfox-151.0.2.1-universal.apk\",\"https://releases.ironfoxoss.org/ironfox/releases/151.0.2.1/universal/ironfox-151.0.2.1-universal.apk\"]]",
+            "otherAssetUrls": "[]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"defaultPseudoVersioningMethod\":\"partialAPKHash\",\"trackOnly\":false,\"invertAPKFilter\":false,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"autoApkFilterByArch\":false}",
+            "lastUpdateCheck": 1783007049830331,
+            "pinned": false,
+            "categories": [
+                "Alt of Base"
+            ],
+            "releaseDate": null,
+            "changeLog": null,
+            "overrideSource": null,
             "allowIdChange": false
         },
         {
@@ -381,7 +423,7 @@
             "otherAssetUrls": "[]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"filterVersionsByRegEx\":\"\",\"trySelectingSuggestedVersionCode\":true,\"autoSelectHighestVersionCode\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
-            "lastUpdateCheck": 1782798125642446,
+            "lastUpdateCheck": 1783007016865330,
             "pinned": false,
             "categories": [
                 "manager "
@@ -389,6 +431,25 @@
             "releaseDate": null,
             "changeLog": null,
             "overrideSource": null,
+            "allowIdChange": false
+        },
+        {
+            "id": "it.vfsfitvnm.vimusic",
+            "url": "https://github.com/vfsfitvnm/ViMusic",
+            "author": "vfsfitvnm",
+            "name": "ViMusic",
+            "installedVersion": "v0.5.4",
+            "latestVersion": "v0.5.4",
+            "apkUrls": "[[\"app-release.apk\",\"https://api.github.com/repos/vfsfitvnm/ViMusic/releases/assets/83424468\"]]",
+            "otherAssetUrls": "[[\"v0.5.4.tar.gz\",\"https://api.github.com/repos/vfsfitvnm/ViMusic/tarball/v0.5.4\"],[\"v0.5.4.zip\",\"https://api.github.com/repos/vfsfitvnm/ViMusic/zipball/v0.5.4\"]]",
+            "preferredApkIndex": 0,
+            "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\"}",
+            "lastUpdateCheck": 1783007017931907,
+            "pinned": false,
+            "categories": [],
+            "releaseDate": 1667561165000000,
+            "changeLog": "* Minor fixes and improvements\r\n\r\n**Full Changelog**: https://github.com/vfsfitvnm/ViMusic/compare/v0.5.3...v0.5.4",
+            "overrideSource": "GitHub",
             "allowIdChange": false
         },
         {
@@ -402,7 +463,7 @@
             "otherAssetUrls": "[]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"filterVersionsByRegEx\":\"\",\"trySelectingSuggestedVersionCode\":true,\"autoSelectHighestVersionCode\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"Gadget Bridge\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
-            "lastUpdateCheck": 1782798128891517,
+            "lastUpdateCheck": 1783007019237202,
             "pinned": false,
             "categories": [
                 "manager "
@@ -419,11 +480,11 @@
             "name": "VFlat",
             "installedVersion": null,
             "latestVersion": "1.16.1.260625.30b2fe919",
-            "apkUrls": "[[\"com.voyagerx.scanner-11601-armeabi-v7a.xapk\",\"https://data.winudf.com/XAPK/Y29tLnZveWFnZXJ4LnNjYW5uZXJfMTE2MDFfZjk1NmI2MmI?filename=vFlat+Scan+-+PDF+Scanner%2C+OCR.xapk&is_hot=false&k=4e04eb3c2ada5f42fc6f63d0ff1d23186a45fa2d&package_name=com.voyagerx.scanner&token=1782798125-4cb8fb069a-0-f536efb77335390664d1780212dbfc80\"]]",
+            "apkUrls": "[[\"com.voyagerx.scanner-11601-armeabi-v7a.xapk\",\"https://data.winudf.com/XAPK/Y29tLnZveWFnZXJ4LnNjYW5uZXJfMTE2MDFfZjk1NmI2MmI?filename=vFlat+Scan+-+PDF+Scanner%2C+OCR.xapk&is_hot=false&k=3f82d5c3128109695433e95ca45b6e846a492a29&package_name=com.voyagerx.scanner&token=1783007017-063e5e3e5e-0-521b67f578bd49ef68ec898a84e28a0f\"]]",
             "otherAssetUrls": "[]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"fallbackToOlderReleases\":true,\"stayOneVersionBehind\":false,\"useFirstApkOfVersion\":true,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"VFlat\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
-            "lastUpdateCheck": 1782798125517788,
+            "lastUpdateCheck": 1783007017506170,
             "pinned": false,
             "categories": [
                 "Alt of Base"
@@ -444,7 +505,7 @@
             "otherAssetUrls": "[]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"filterVersionsByRegEx\":\"\",\"trySelectingSuggestedVersionCode\":true,\"autoSelectHighestVersionCode\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"Plain\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
-            "lastUpdateCheck": 1782798130206383,
+            "lastUpdateCheck": 1783007022800772,
             "pinned": false,
             "categories": [],
             "releaseDate": null,
@@ -459,11 +520,11 @@
             "name": "Get Current Wallpaper",
             "installedVersion": null,
             "latestVersion": "v1.3.7 - 22",
-            "apkUrls": "[[\"dk.appdictive.getcurrentwallpaper-22-.apk\",\"https://data.winudf.com/apk/ZGsuYXBwZGljdGl2ZS5nZXRjdXJyZW50d2FsbHBhcGVyXzIyXzhiMTRhYWVk?filename=Get+Current+Wallpaper.apk&is_hot=false&k=d222d6f4a573efc151f622baf23dc4fe6a45fa2d&package_name=dk.appdictive.getcurrentwallpaper&token=1782798125-a89ae181a5-0-7528f561baa6cab74dd1f289484622f7\"]]",
+            "apkUrls": "[[\"dk.appdictive.getcurrentwallpaper-22-.apk\",\"https://data.winudf.com/apk/ZGsuYXBwZGljdGl2ZS5nZXRjdXJyZW50d2FsbHBhcGVyXzIyXzhiMTRhYWVk?filename=Get+Current+Wallpaper.apk&is_hot=false&k=f54e94b6f48cbdd4a0516b4e8269954f6a492a29&package_name=dk.appdictive.getcurrentwallpaper&token=1783007017-cb09c84329-0-c7c2378e557f0ba1e0221507c128bd1a\"]]",
             "otherAssetUrls": "[]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"fallbackToOlderReleases\":true,\"stayOneVersionBehind\":false,\"useFirstApkOfVersion\":true,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
-            "lastUpdateCheck": 1782798125386587,
+            "lastUpdateCheck": 1783007016609338,
             "pinned": false,
             "categories": [],
             "releaseDate": 1570694564000000,
@@ -482,7 +543,7 @@
             "otherAssetUrls": "[]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"filterVersionsByRegEx\":\"\",\"trySelectingSuggestedVersionCode\":true,\"autoSelectHighestVersionCode\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"OsmAnd\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
-            "lastUpdateCheck": 1782798130244400,
+            "lastUpdateCheck": 1783007023070143,
             "pinned": false,
             "categories": [
                 "Fdroid"
@@ -490,25 +551,6 @@
             "releaseDate": null,
             "changeLog": "https://osmand.net/docs/versions/free-versions/",
             "overrideSource": null,
-            "allowIdChange": false
-        },
-        {
-            "id": "org.mozilla.fennec_fdroid",
-            "url": "https://f-droid.org/en/packages/org.mozilla.fennec_fdroid",
-            "author": "F-Droid official",
-            "name": "Fennec",
-            "installedVersion": "149.0.2",
-            "latestVersion": "152.0.0",
-            "apkUrls": "[[\"org.mozilla.fennec_fdroid_1520020.apk\",\"https://f-droid.org/repo/org.mozilla.fennec_fdroid_1520020.apk\"],[\"org.mozilla.fennec_fdroid_1520010.apk\",\"https://f-droid.org/repo/org.mozilla.fennec_fdroid_1520010.apk\"],[\"org.mozilla.fennec_fdroid_1520000.apk\",\"https://f-droid.org/repo/org.mozilla.fennec_fdroid_1520000.apk\"]]",
-            "otherAssetUrls": "[]",
-            "preferredApkIndex": 2,
-            "additionalSettings": "{\"filterVersionsByRegEx\":\"\",\"trySelectingSuggestedVersionCode\":false,\"autoSelectHighestVersionCode\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
-            "lastUpdateCheck": 1782798126140361,
-            "pinned": false,
-            "categories": [],
-            "releaseDate": null,
-            "changeLog": null,
-            "overrideSource": "FDroid",
             "allowIdChange": false
         },
         {
@@ -543,7 +585,7 @@
             "otherAssetUrls": "[[\"iceraven-2.45.0-browser-armeabi-v7a-forkRelease.apk\",\"https://api.github.com/repos/fork-maintainers/iceraven-browser/releases/assets/452942087\"],[\"iceraven-2.45.0-browser-x86_64-forkRelease.apk\",\"https://api.github.com/repos/fork-maintainers/iceraven-browser/releases/assets/452942110\"],[\"iceraven-2.45.0.tar.gz\",\"https://api.github.com/repos/fork-maintainers/iceraven-browser/tarball/iceraven-2.45.0\"],[\"iceraven-2.45.0.zip\",\"https://api.github.com/repos/fork-maintainers/iceraven-browser/zipball/iceraven-2.45.0\"]]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"includePrereleases\":false,\"fallbackToOlderReleases\":true,\"filterReleaseTitlesByRegEx\":\"\",\"filterReleaseNotesByRegEx\":\"\",\"verifyLatestTag\":false,\"sortMethodChoice\":\"date\",\"useLatestAssetDateAsReleaseDate\":false,\"releaseTitleAsVersion\":false,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":false,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"includeZips\":false,\"zippedApkFilterRegEx\":\"\"}",
-            "lastUpdateCheck": 1782798130133643,
+            "lastUpdateCheck": 1783007022673297,
             "pinned": false,
             "categories": [
                 "Alt of Base"
@@ -581,38 +623,17 @@
             "name": "ARHEVE",
             "installedVersion": null,
             "latestVersion": "1.4.20260430",
-            "apkUrls": "[[\"com.arheve.arheve-217-arm64-v8a.xapk\",\"https://data.winudf.com/XAPK/Y29tLmFyaGV2ZS5hcmhldmVfMjE3Xzc4MjNiMzIx?filename=ARHEVE%3A+Books+Library.xapk&is_hot=false&k=c47cbb6b49e5d15363621180c3c577826a45fa2d&package_name=com.arheve.arheve&token=1782798125-152d3e98c6-0-ccc5ebb2871d787e705141f7aefd223e\"]]",
+            "apkUrls": "[[\"com.arheve.arheve-217-arm64-v8a.xapk\",\"https://data.winudf.com/XAPK/Y29tLmFyaGV2ZS5hcmhldmVfMjE3Xzc4MjNiMzIx?filename=ARHEVE%3A+Books+Library.xapk&is_hot=false&k=7f64df686aaa9d5c4c9f99a27dbfdcae6a492a29&package_name=com.arheve.arheve&token=1783007017-e3744a2c0c-0-2b08bc4fb194cd08a18dcdc7d91e9312\"]]",
             "otherAssetUrls": "[]",
             "preferredApkIndex": 0,
             "additionalSettings": "{\"fallbackToOlderReleases\":true,\"stayOneVersionBehind\":false,\"useFirstApkOfVersion\":true,\"trackOnly\":false,\"versionExtractionRegEx\":\"\",\"matchGroupToUse\":\"\",\"versionDetection\":true,\"releaseDateAsVersion\":false,\"useVersionCodeAsOSVersion\":false,\"apkFilterRegEx\":\"\",\"invertAPKFilter\":false,\"autoApkFilterByArch\":true,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false}",
-            "lastUpdateCheck": 1782798125476520,
+            "lastUpdateCheck": 1783007017422209,
             "pinned": false,
             "categories": [
                 "manager "
             ],
             "releaseDate": 1777594196000000,
             "changeLog": "We are pleased to announce the release of an updated version of the library that includes a security update and other bug fixes.",
-            "overrideSource": null,
-            "allowIdChange": false
-        },
-        {
-            "id": "org.ironfoxoss.ironfox",
-            "url": "https://releases.ironfoxoss.org/ironfox/releases/151.0.2.1/universal/ironfox-151.0.2.1-universal.apk",
-            "author": "releases.ironfoxoss.org",
-            "name": "IronFox",
-            "installedVersion": "315377339",
-            "latestVersion": "315377339",
-            "apkUrls": "[[\"146815838-ironfox-151.0.2.1-universal.apk\",\"https://releases.ironfoxoss.org/ironfox/releases/151.0.2.1/universal/ironfox-151.0.2.1-universal.apk\"]]",
-            "otherAssetUrls": "[]",
-            "preferredApkIndex": 0,
-            "additionalSettings": "{\"requestHeader\":[{\"requestHeader\":\"User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36\"}],\"defaultPseudoVersioningMethod\":\"partialAPKHash\",\"trackOnly\":false,\"invertAPKFilter\":false,\"appName\":\"\",\"appAuthor\":\"\",\"shizukuPretendToBeGooglePlay\":false,\"allowInsecure\":false,\"exemptFromBackgroundUpdates\":false,\"skipUpdateNotifications\":false,\"about\":\"\",\"refreshBeforeDownload\":false,\"autoApkFilterByArch\":false}",
-            "lastUpdateCheck": 1782813036111738,
-            "pinned": false,
-            "categories": [
-                "Alt of Base"
-            ],
-            "releaseDate": null,
-            "changeLog": null,
             "overrideSource": null,
             "allowIdChange": false
         }
@@ -622,22 +643,22 @@
         "welcomeShown": true,
         "categories": "{\".droidots\":4288129254,\"Mod\":4293040264,\"Github\":4293301655,\"Fdroid\":4293365948,\"Track\":4279615404,\"Music players\":4284530052,\"downloaders\":4284202375,\"Alt of Base\":4281974683,\"player clients\":4289311067,\"manager \":4287608678,\"App Clients\":4281253792,\"Gitlab\":4283612812}",
         "groupByCategory": true,
-        "lastCompletedBGCheckTime": 1782798137604,
+        "lastCompletedBGCheckTime": 1783007056785,
+        "exportDir": "content://com.android.externalstorage.documents/tree/primary%3Agit%2Fdroidots%2Fobtainium",
         "parallelDownloads": true,
         "firstRun": false,
         "exportSettings": 1,
         "autoExportOnChanges": true,
         "searchDeselected": [
             "GitHub",
+            "GitLab",
             "Forgejo (Codeberg)",
-            "F-Droid official",
             "F-Droid third-party repo",
             "vivo App Store (CN)"
         ],
         "themeColor": 4294951551,
         "googleVerificationWarningShown": true,
         "useMaterialYou": false,
-        "useSystemFont": false,
-        "exportDir": "content://com.android.externalstorage.documents/tree/primary%3Agit%2Fdroidots%2Fobtainium"
+        "useSystemFont": false
     }
 }
